@@ -1,1 +1,7 @@
 /*styles for my index.html*/
+h1{
+	font-weight: bold;
+	font-family: 'Roboto';
+	color: pink;
+	
+}
